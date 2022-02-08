@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend-user/backend-user.iml" filepath="$PROJECT_DIR$/backend-user/backend-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-bookstore.iml" filepath="$PROJECT_DIR$/.idea/microservices-bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-books/service-books.iml" filepath="$PROJECT_DIR$/service-books/service-books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-discovery/service-discovery.iml" filepath="$PROJECT_DIR$/service-discovery/service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-prices/service-prices.iml" filepath="$PROJECT_DIR$/service-prices/service-prices.iml" />
+    </modules>
+  </component>
+</project>
